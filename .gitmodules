@@ -1,0 +1,3 @@
+[submodule "codecrafters-bittorrent-python"]
+	path = codecrafters-bittorrent-python
+	url = https://github.com/eodevx/codecrafters-bittorrent-python.git
